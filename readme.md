@@ -1,2 +1,3 @@
-1.npm install
-2. run index.html
+### `npm install`
+
+### run `index.html`
