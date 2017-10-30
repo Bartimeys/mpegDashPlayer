@@ -1,29 +1,26 @@
 {
-  "name": "Mpeg-Dash Test",
+  "name": "test",
+  "version": "0.0.0",
   "description": "A Video.js source-handler providing MPEG-DASH playback.",
-  "main": "",
+  "main": "index.html",
+  "dependencies": {
+    "dashjs": "^2.6.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/Bartimeys/mpegDashPlayer.git"
   },
-  "version": "0.0.0",
-  "author": "",
-  "license": "",
-  "scripts": {},
   "keywords": [
-    "videojs",
-    "dashjs",
-    "video.js",
-    "dash.js",
-    "widevine",
-    "playready",
-    "dash",
-    "MPEG-DASH"
+    "\"videojs\""
   ],
-  "dependencies": {
-    "dashjs": "^2.6.2",
-    "global": "^4.3.0",
-    "video.js": "^6.2.8"
+  "author": "\"dashjs\",",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bartimeys/mpegDashPlayer/issues"
   },
-  "devDependencies": {}
+  "homepage": "https://github.com/Bartimeys/mpegDashPlayer#readme"
 }
