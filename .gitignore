@@ -1,9 +1,4 @@
 .idea
 .gitignore
-.idea/.name
-.idea/inspectionProfiles/
-.idea/modules.xml
-.idea/mpegDashPlayer.iml
-.idea/preferred-vcs.xml
-.idea/workspace.xml
+.idea/
 node_modules/
